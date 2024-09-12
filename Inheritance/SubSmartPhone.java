@@ -1,5 +1,5 @@
 package com.xworkz.chicken;
-    public class SubSmartphone extends Smartphone {
+    public class SubSmartphone extends SmartPhone {
 
         public SubSmartphone() {
             System.out.println("SubSmartphone constructor created");
